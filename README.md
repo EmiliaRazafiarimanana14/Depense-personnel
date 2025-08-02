@@ -24,5 +24,4 @@ Une application web simple pour suivre vos dépenses quotidiennes, construite av
 1. **Clonez le dépôt**
 
 ```bash
-git clone https://github.com/votre-utilisateur/depense-perso.git
-cd depense-perso
+git clone https://github.com/EmiliaRazafiarimanana14/depense-perso.git
